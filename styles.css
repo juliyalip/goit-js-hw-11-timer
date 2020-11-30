@@ -1,0 +1,9 @@
+.timer {
+  display: flex;
+}
+
+.field {
+  width: 100px;
+  border: 1px solid black;
+  text-align: center;
+}
